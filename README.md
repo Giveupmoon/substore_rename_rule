@@ -138,3 +138,6 @@ https://raw.githubusercontent.com/Giveupmoon/substore_rename_rule/main/rename_se
 
 
 **注意**: 使用前请确保 Sub-Store 版本支持脚本操作功能。
+
+
+**最后**：晚安！
