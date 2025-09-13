@@ -60,13 +60,13 @@
 ### 基本用法
 在 Sub-Store 脚本操作中添加以下URL：
 ```
-https://raw.githubusercontent.com/FengNinger/substore_rename_rule/main/rename_self.js
+https://raw.githubusercontent.com/Giveupmoon/substore_rename_rule/main/rename_self.js
 ```
 
 ### 带参数使用
 参数必须以 `#` 开头，多个参数使用 `&` 连接：
 ```
-https://raw.githubusercontent.com/FengNinger/substore_rename_rule/main/rename_self.js#flag&out=en&name=机场名
+https://raw.githubusercontent.com/Giveupmoon/substore_rename_rule/main/rename_self.js#flag&out=en&name=机场名
 ```
 ### 常用参数
 ```
